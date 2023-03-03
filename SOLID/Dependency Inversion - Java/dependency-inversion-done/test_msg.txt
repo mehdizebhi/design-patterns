@@ -1,0 +1,1 @@
+{"msg":"This is a message with DI","timestamp":{"nano":782206700,"year":2023,"monthValue":2,"dayOfMonth":22,"hour":15,"minute":14,"second":32,"month":"FEBRUARY","dayOfWeek":"WEDNESDAY","dayOfYear":53,"chronology":{"id":"ISO","calendarType":"iso8601","isoBased":true}}}
