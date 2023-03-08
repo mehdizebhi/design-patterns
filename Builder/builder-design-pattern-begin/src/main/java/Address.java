@@ -1,5 +1,4 @@
-public class Address {
-
+public class Address {W
 	private String houseNumber;
 	
 	private String street;

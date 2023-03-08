@@ -1,6 +1,5 @@
 //A product in builder pattern
 public class UserWebDTO implements UserDTO {
-
 	private String name;
 	
 	private String address;

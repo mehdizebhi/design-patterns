@@ -2,6 +2,7 @@ import java.time.LocalDate;
 
 //Abstract builder
 public interface UserDTOBuilder {
+
 	//methods to build "parts" of product at a time
 	UserDTOBuilder withFirstName(String fname) ;
 

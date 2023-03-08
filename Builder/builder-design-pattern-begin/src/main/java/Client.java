@@ -1,8 +1,7 @@
 import java.time.LocalDate;
 
 //This is our client which also works as "director"
-public class Client {
-
+public class Client {W
 	public static void main(String[] args) {
 		
 	}
