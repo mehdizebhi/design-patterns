@@ -1,4 +1,3 @@
-
 import java.time.LocalDate;
 
 //Class used to construct the product

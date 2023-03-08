@@ -1,4 +1,3 @@
-
 public class Address {
 
 	private String houseNumber;

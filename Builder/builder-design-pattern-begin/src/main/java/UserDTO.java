@@ -1,4 +1,3 @@
-
 //Interface implemented by "products"
 public interface UserDTO {
 	

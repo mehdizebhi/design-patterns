@@ -1,4 +1,3 @@
-
 import java.time.LocalDate;
 
 //This is our client which also works as "director"
