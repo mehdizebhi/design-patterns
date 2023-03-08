@@ -1,4 +1,3 @@
-package com.cpc.dp.builder;
 
 //A product in builder pattern
 public class UserWebDTO implements UserDTO {
